@@ -1,0 +1,3 @@
+[2022-04-05 16:00:56,631][MainThread:27528][场景:注册][user_interface.py:16][DEBUG][用户:1注册成功]
+[2022-04-05 16:00:58,969][MainThread:27528][场景:登录][user_interface.py:24][DEBUG][用户:1登录成功]
+[2022-04-05 16:01:03,250][MainThread:27528][场景:提现][bank_interface.py:21][INFO][用户:1减少了1050.0元]
